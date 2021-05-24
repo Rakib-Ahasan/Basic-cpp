@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1619332271 source:e:\sagor c++\basic c++\myfirstporject\src\myfirstclass.cpp
+	"myfirstclass.h"
+	<iostream>
+
+1619332138 e:\sagor c++\basic c++\myfirstporject\include\myfirstclass.h
+	"myfirstclass.h"
+
+1619332271 source:e:\sagor c++\basic c++\myfirstporject\main.cpp
+	<iostream>
+	<conio.h>
+	"myfirstclass.h"
+
